@@ -12,3 +12,5 @@ sigmoid functions using backpropagation.
 with n=4 linear segments; train the resulting network on the same data.
 
 • Repeat, for other values of n (=6, 8, 10, 12, 14).
+
+Dataset used - https://archive.ics.uci.edu/ml/datasets/banknote+authentication#
